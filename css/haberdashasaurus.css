@@ -1,0 +1,32 @@
+
+/*
+	--color-1: #6F13FF; purple
+	--color-2: #0933E8; dark blue
+	--color-3: #17C6FF; light blue
+	--color-4: #09E89A; turquoise
+	--color-5: #0AFF14; green
+*/
+
+body {
+	background-color: black;
+}
+
+h1 {
+	color: #0AFF14;
+}
+
+h2 {
+	color: #09E89A;
+}
+
+h3 {
+	color: #17C6FF;
+}
+
+p {
+	color: white;
+}
+
+a {
+	color: #17C6FF;
+}
